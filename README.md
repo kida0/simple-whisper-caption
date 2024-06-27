@@ -1,10 +1,10 @@
-[설명]
+### [설명]
 * 길이가 짧은 영상의 자막을 생성하는 간단한 코드입니다.
 
-[개발 환경]
-Python 3.10.12
+### [개발 환경]
+* Python 3.10.12
 
-[실행 방법]
+### [실행 방법]
 1. 가상환경 실행 후 requirements.txt를 설치합니다.
 ```
 python -m venv env
@@ -17,5 +17,5 @@ pip install -r requirements.txt
 python3 -d samples
 ```
 
-[TODO]
+### [TODO]
 - [ ] verbose_json 옵션 추가
