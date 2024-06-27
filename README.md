@@ -3,6 +3,7 @@
 
 ### [개발 환경]
 * Python 3.10.12
+* Ubuntu 22.04.4 LTS
 
 ### [실행 방법]
 1. 가상환경 실행 후 requirements.txt를 설치합니다.
